@@ -13,7 +13,7 @@ I am an electronics engineer, graduated from faculty of engineering, Department 
   <img alt="React" src="https://img.shields.io/badge/-Arduino-14B29F?style=flat-sphare&logo=Arduino&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-EasyEDA-257BD0?style=flat-sphare&logo=EasyEDA&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-Multisim-C0A9ED?style=flat-sphare&logo=Multisim&logoColor=7433EE" />
-  <img alt="React" src="https://img.shields.io/badge/-Cadence%20EDA-E52F06?style=flat-sphare" />
+  <img alt="React" src="https://img.shields.io/badge/-Cadence%20Virtuoso-E52F06?style=flat-sphare" />
 </p>
 
 
